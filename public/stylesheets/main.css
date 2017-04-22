@@ -14,7 +14,21 @@ p {
   font-size: 30px;
 }
 
+.mybutton {
+  border-radius: 50%;
+  outline: 0;
+ background: url(/images/bb8.gif);
+ background-size: 100px 100px;
+  padding: 50px 50px;
+  border-style: none;
+}
+
 #doge-image img {
   height: 140px;
   margin-top: 20px;
+
+
+
+
+}
 }
